@@ -2,6 +2,8 @@
 
 This work was inspired by [LiveKit tutorials](https://docs.livekit.io/agents/quickstarts/s2s/), and youtube tutorial by [Damiano Redemagni](https://www.youtube.com/watch?v=2jafwzDhJ2k) and [Underfitted](https://www.youtube.com/watch?v=nvmV0a2geaQ)
 
+There are 2 agents, one with only voice assistance (agent_voice.py) and one with voice and visual assistance (agent_vision.py).
+
 For more details, examples and agents available go to LiveKit github: https://github.com/livekit/agents/tree/main
 
 1) First, you need to create a virtual environment, update pip and install the required packages:
